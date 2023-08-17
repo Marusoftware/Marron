@@ -4,4 +4,6 @@ true Integrated Development Environment
 - Oauth
 - Resource(File, Machine...) Management
 - Build and Packaging
+- Publishing
+- Communicate with users
 - and more...
